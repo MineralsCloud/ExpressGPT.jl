@@ -1,0 +1,6 @@
+Now generate 2 user inputs and your responses, with varying `np`, `template`, pressures
+(with different units), and trial equations of state (only in the allowed types of EOS). You
+should be very creative on what users might compose their inputs, e.g, how sentences are
+ordered, how similar words or phrases are used, etc.
+
+Now generate 1 user input and your response. But only return your response in JSON format. Do not print anything else.
